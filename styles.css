@@ -109,6 +109,14 @@ text-decoration: none;
     letter-spacing: 0.02em;
 }
 
+.strategy-text {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
 /* section team */
 
 .section-team {
@@ -123,7 +131,7 @@ text-decoration: none;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    /* text-transform: capitalize; */
+    text-transform: capitalize;
 }
 
 .team-name {
@@ -144,6 +152,9 @@ text-decoration: none;
     color: #434455;
 }
 
+.team-item {
+    background-color: #fff;
+}
 /* Section Portfolio */
 
 .our-port {
@@ -152,7 +163,8 @@ text-decoration: none;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;  
+    color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .port-name {
