@@ -5,11 +5,14 @@ body {
     line-height: 1.5;
 }
 ul, ol {
-    list-style: none;
+    list-style-type: none;
 }
 
 a {
 text-decoration: none;
+}
+button {
+    cursor: pointer;
 }
 
 /* header */
@@ -141,7 +144,7 @@ text-decoration: none;
 .team-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1,2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -161,6 +164,9 @@ text-decoration: none;
 }
 /* Section Portfolio */
 
+.section-portfolio {
+    background-color: #f4f4fd;
+}
 .our-port {
     font-weight: 700;
     font-size: 36px;
