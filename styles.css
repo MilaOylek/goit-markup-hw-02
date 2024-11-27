@@ -105,7 +105,7 @@ text-decoration: none;
     color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
@@ -133,6 +133,9 @@ text-decoration: none;
     color: #2e2f42;
     text-transform: capitalize;
 }
+.list-team {
+    background-color: #F4F4FD
+}
 
 .team-name {
     font-weight: 500;
@@ -152,7 +155,7 @@ text-decoration: none;
     color: #434455;
 }
 
-.team-item {
+.item-team {
     background-color: #fff;
 }
 /* Section Portfolio */
