@@ -36,8 +36,8 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-
-     /* list-style-type: none; */
+    list-style-type: none;
+    text-decoration: none;
 }
 
 /* .nav-link:active {
@@ -53,6 +53,7 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
     list-style-type: none;
+    text-decoration: none;
     color: #434455;
 }
 
@@ -80,7 +81,7 @@ color: #2e2f42;
 }
 
 .button-os {
-     font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     min-width: 169px;
     background-color: #4d5ae5;
     font-weight: 500;
@@ -110,7 +111,7 @@ color: #2e2f42;
 .strategy-text {
     color: #434455;
     font-size: 16px;
-    /* font-weight: 400; */
+    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -182,7 +183,7 @@ color: #2e2f42;
 }
 
 .port-txt {
-    /* font-weight: 400; */
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -203,6 +204,7 @@ color: #2e2f42;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+
 }
 
 .logo-stud {
