@@ -23,10 +23,11 @@ button {
     line-height: 1.17;
     letter-spacing: 0.03em;
     color: #4d5ae5;
+    text-transform: uppercase;
 }
 
-.logo .logo-part {
-    color: #2e2f42;
+span .logo .logo-part {
+color: #2e2f42;
 }
 
 .nav-link {
@@ -152,9 +153,9 @@ button {
     color: #434455;
 }
 
-/* .item-team {
+.item-team {
     background-color: #fff;
-} */
+}
 /* Section Portfolio */
 
 .section-portfolio {
