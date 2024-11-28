@@ -22,11 +22,10 @@ button {
     font-size: 18px;  
     line-height: 1.17;
     letter-spacing: 0.03em;
-     text-transform: uppercase;
-     color: #4d5ae5;
+    color: #4d5ae5;
 }
 
-.header-logo .logo-studio {
+.logo .logo-part {
     color: #2e2f42;
 }
 
@@ -102,7 +101,7 @@ button {
     color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
@@ -131,14 +130,14 @@ button {
     text-transform: capitalize;
 }
 
-.list-team {
+/* .list-team {
     background-color: #F4F4FD
-}
+} */
 
 .team-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1,2;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -153,9 +152,9 @@ button {
     color: #434455;
 }
 
-.item-team {
+/* .item-team {
     background-color: #fff;
-}
+} */
 /* Section Portfolio */
 
 .section-portfolio {
